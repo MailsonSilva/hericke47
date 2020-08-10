@@ -18,4 +18,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Herick Exterkoetter | Instagram" width="22px" src="https://www.instagram.com/hherick.js/" />][instagram]
+[<img align="left" alt="Herick Exterkoetter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg/" />][instagram]
