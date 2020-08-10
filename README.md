@@ -18,4 +18,5 @@
 
 ### Connect with me:
 
-[instagram]: https://instagram.com/hherick.js
+Instagram: https://instagram.com/hherick.js
+E-Mail: herickherick47@gmail.com
