@@ -18,16 +18,15 @@
 
 ### Connect with me:
 
-</p align="center">
+E-mail: herickherick47@gmail.com
+
+</p>
   
   <a href="https://www.instagram.com/hherick.js/" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
 
   <a href="https://www.linkedin.com/in/herick-exterkoetter-197496195/" target="_blank" >
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
-  
-  <a href="herickherick47@gmail.com" target="_blank" >
-    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> 
-  
+
   <a href="https://api.whatsapp.com/send?phone=5548998665532" target="_blank" >
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
