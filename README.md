@@ -18,28 +18,16 @@
 
 ### Connect with me:
 
-Instagram: https://instagram.com/hherick.js
-E-Mail: herickherick47@gmail.com
-
-### Social Medias
-
-</p>
+</p align="center">
   
   <a href="https://www.instagram.com/hherick.js/" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
-  
-  <a href="#" target="_blank" >
-    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"></a> 
 
-  <a href="https://www.linkedin.com/in/pedro-ferreira-148503b8/" target="_blank" >
+  <a href="https://www.linkedin.com/in/herick-exterkoetter-197496195/" target="_blank" >
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
   
-  <a href="mailto:pedro.21hf@gmail.com" target="_blank" >
+  <a href="herickherick47@gmail.com" target="_blank" >
     <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> 
   
-  <a href="https://api.whatsapp.com/send?phone=5521979434402" target="_blank" >
+  <a href="https://api.whatsapp.com/send?phone=5548998665532" target="_blank" >
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
-    
-   <a href="https://pedro-ferreiraprofile.herokuapp.com/" target="_blank" >
-    <img alt="Portfólio" src="https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=google-chrome&logoColor=white"></a>
-    </p>
