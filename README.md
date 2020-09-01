@@ -18,8 +18,10 @@
 
 ---
 
- <img align="left" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47_icons=true&hide_border=true&theme=radical" />
-
+ <img align="left" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?hericke47=anuraghazra" />
+ 
+<br />
+<br />
 
 ### Connect with me:
 
