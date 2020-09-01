@@ -16,6 +16,11 @@
 <br />
 <br />
 
+---
+
+ <img align="left" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47_icons=true&hide_border=true&theme=radical" />
+
+
 ### Connect with me:
 
 E-mail: herickherick47@gmail.com
