@@ -23,7 +23,7 @@ E-mail: herickherick47@gmail.com
 
 </p>
   
-  <a href="https://www.instagram.com/hherick.js/" target="_blank" >
+  <a href="https://www.instagram.com/hherick.onrails/" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
 
   <a href="https://www.linkedin.com/in/herick-exterkoetter-197496195/" target="_blank" >
