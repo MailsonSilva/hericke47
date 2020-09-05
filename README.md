@@ -33,7 +33,7 @@ E-mail: herickherick47@gmail.com
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
     
 ---
- <img align="left" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
- ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericke47&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff">
+ <img align="center" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericke47&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff">
 <br />
