@@ -20,10 +20,10 @@
 
   
 <div align="center"> 
- <img width="150px" height="125px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluralsight.imgix.net%2Fpaths%2Fpath-icons%2Fnodejs-601628d09d.png&f=1&nofb=1">
+ <img width="100px" height="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluralsight.imgix.net%2Fpaths%2Fpath-icons%2Fnodejs-601628d09d.png&f=1&nofb=1">
 
 
-<img width="150px" height="125px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-3%2F600%2FReact.js_logo-512.png&f=1&nofb=1">
+<img width="100px" height="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-3%2F600%2FReact.js_logo-512.png&f=1&nofb=1">
 
 <img width="150px" height="125px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1">
 
