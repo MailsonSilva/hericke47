@@ -45,10 +45,6 @@
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
-<td align="center" width="10%">
-<img height=65px src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.appcoda.com%2Fwp-content%2Fuploads%2F2015%2F04%2Freact-native-1024x631.png&f=1&nofb=1"> 
-</td>
-</tr>
 
 <tr>
 <td align="center" width="10%">
