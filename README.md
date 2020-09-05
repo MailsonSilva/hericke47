@@ -45,7 +45,7 @@
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
-
+</tr>
 <tr>
 <td align="center" width="10%">
 <img height=65px src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.viget.com%2Fjest.png%3Fmtime%3D20161208164733&f=1&nofb=1"> 
