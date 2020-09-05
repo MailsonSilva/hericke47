@@ -2,6 +2,21 @@
 <p align="center">A FullStack Developer</p>
 
 <h1 align="center">Tech Stack :computer:</h1>
+---
+### Connect with me:
+![Gmail Badge](https://img.shields.io/badge/-herickherick47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)
+<div align="center"> 
+ 
+  
+  <a href="https://www.instagram.com/hherick.onrails/" target="_blank" >
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
+
+  <a href="https://www.linkedin.com/in/herick-exterkoetter-197496195/" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
+
+  <a href="https://api.whatsapp.com/send?phone=5548998665532" target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
+</div>  
 
 <br>
 <table>
@@ -82,21 +97,7 @@
 
 
 
----
-### Connect with me:
-![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)
-<div align="center"> 
- 
   
-  <a href="https://www.instagram.com/hherick.onrails/" target="_blank" >
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
-
-  <a href="https://www.linkedin.com/in/herick-exterkoetter-197496195/" target="_blank" >
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
-
-  <a href="https://api.whatsapp.com/send?phone=5548998665532" target="_blank" >
-    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
-</div>    
   
 ---
 <div align="center"> 
