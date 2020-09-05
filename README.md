@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Herick Exterkoetter</h1>
-<h3 align="center">A FullStack Developer</h3>
+<p align="center">A FullStack Developer</p>
 
 <h1 align="center">Tech Stack :computer:</h1>
 
@@ -85,9 +85,8 @@
 ---
 ### Connect with me:
 
-E-mail: herickherick47@gmail.com
-
-</p>
+<div align="center"> 
+  [![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:herickherick47@gmail.com)
   
   <a href="https://www.instagram.com/hherick.onrails/" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
@@ -97,7 +96,7 @@ E-mail: herickherick47@gmail.com
 
   <a href="https://api.whatsapp.com/send?phone=5548998665532" target="_blank" >
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
-    
+</div>    
   
 ---
 <div align="center"> 
