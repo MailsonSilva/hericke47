@@ -97,9 +97,12 @@ E-mail: herickherick47@gmail.com
     
   
 ---
- <img align="center" class="inline" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
+<div align="center"> 
+<img align="center" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericke47&layout=compact&show_icons=true&title_color=637fff&icon_color=637fff">
+</div>
+ 
 <br />
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
