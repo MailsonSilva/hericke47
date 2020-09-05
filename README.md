@@ -2,7 +2,6 @@
 <p align="center">A FullStack Developer</p>
 
 <h1 align="center">Tech Stack :computer:</h1>
----
 ### Connect with me:
 ![Gmail Badge](https://img.shields.io/badge/-herickherick47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)
 <div align="center"> 
