@@ -1,4 +1,4 @@
-<h1 >Hi dear 👋, I'm Herick Exterkoetter</h1>
+<h1 >Herick Exterkoetter</h1>
 <p >Self-taught Developer. Enthusiast of web and mobile development technologies.</p>
 <p>Passionate about education and teaching about programming.</p>
 
