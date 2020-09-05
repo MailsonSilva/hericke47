@@ -23,15 +23,15 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center" width="10%">
 <img height=60px src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <img height=60px src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsdtimes.com%2Fwp-content%2Fuploads%2F2018%2F09%2F1_JsyV8lXMuTbRVLQ2FPYWAg-490x490.png&f=1&nofb=1"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
 </tr>
