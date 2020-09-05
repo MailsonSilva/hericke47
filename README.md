@@ -1,4 +1,7 @@
-## Tech Stack :computer:
+<h1 align="center">Hi dear 👋, I'm Herick Exterkoetter</h1>
+<h3 align="center">A FullStack Developer</h3>
+
+<h1 align="center">Tech Stack :computer:</h1>
 
 <br>
 <table>
