@@ -1,7 +1,8 @@
 <h1 >Hi dear 👋, I'm Herick Exterkoetter</h1>
-<p >A FullStack Developer</p>
+<p >A FullStack Developer, Enthusiast of the technology</p>
+<p>Passionate about education and teaching about programming</p>
 
-<h1 align="center">Connect with me:</h1>
+<h1>Connect with me:</h1>
  
 ![Gmail Badge](https://img.shields.io/badge/-herickherick47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)
 
