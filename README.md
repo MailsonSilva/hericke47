@@ -95,6 +95,7 @@ E-mail: herickherick47@gmail.com
   <a href="https://api.whatsapp.com/send?phone=5548998665532" target="_blank" >
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
     
+  ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 ---
  <img align="center" alt="Herick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hericke47&show_icons=true&hide_border=true&theme=radical" />
  <hr/>
