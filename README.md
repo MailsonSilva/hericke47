@@ -1,9 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Herick Exterkoetter</h1>
 <p align="center">A FullStack Developer</p>
 
-<h1 align="center">Tech Stack :computer:</h1>
-<hr/>
-
 <h1>Connect with me:</h1>
 <div align="center">
  
@@ -18,6 +15,9 @@
   <a href="https://api.whatsapp.com/send?phone=5548998665532" target="_blank" >
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
 </div>  
+
+<h1 align="center">Tech Stack :computer:</h1>
+<hr/>
 
 <br>
 <table>
