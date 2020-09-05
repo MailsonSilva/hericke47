@@ -20,7 +20,7 @@
 
   
 <div> 
- <img width="300px" height="100px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluralsight.imgix.net%2Fpaths%2Fpath-icons%2Fnodejs-601628d09d.png&f=1&nofb=1">
+ <img width="150px" height="100px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluralsight.imgix.net%2Fpaths%2Fpath-icons%2Fnodejs-601628d09d.png&f=1&nofb=1">
 </div>
 
  
