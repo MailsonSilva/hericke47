@@ -19,7 +19,7 @@
 <h1 align="center">Tech Stack :computer:</h1>
 
   
-<div> 
+<div align="center"> 
  <img width="150px" height="125px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluralsight.imgix.net%2Fpaths%2Fpath-icons%2Fnodejs-601628d09d.png&f=1&nofb=1">
 </div>
 
