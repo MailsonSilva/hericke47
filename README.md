@@ -5,7 +5,7 @@
 <h1>Connect with me:</h1>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Herick%20Exterkoetter-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herick-exterkoetter-197496195/)](https://www.linkedin.com/in/herick-exterkoetter-197496195/) 
-[![Gmail Badge](https://img.shields.io/badge/-herickherick47@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:herickherick47@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-herick.exterkoetter@planethub.dev-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:herick.exterkoetter@planethub.dev)
 
 ---
 <div align="center"> 
